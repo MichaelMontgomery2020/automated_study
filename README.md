@@ -2,7 +2,6 @@
 Creates a shortcut for Python/DevOps leanring environment. Calls up website of your choice, a blank notepad, git, and OracleVM
 Run using cmd for Windows. Save the file to default directory location. When cmd is called, type python study.py and the file will execute the script.
 
-
 import webbrowser # for URL
 import os
 from pathlib import Path 
